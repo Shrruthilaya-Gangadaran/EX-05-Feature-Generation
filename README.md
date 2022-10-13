@@ -247,7 +247,7 @@ df6
 ![](2o11.png)
 
 # RESULT:
-Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
+Feature Generation process and Feature Scaling process is applied to the given data frames successfully.
 
 
 
